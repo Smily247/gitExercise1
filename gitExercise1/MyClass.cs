@@ -10,7 +10,8 @@ namespace gitExercise1
     {
         public static void hello()
         {
-            Console.WriteLine("method 'hello' says: hello");
+            Console.WriteLine("All I want to do is say Hello!");
+            
         }
     }
 }
